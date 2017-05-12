@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
@@ -24,3 +25,7 @@ $ ionic run ios
 
 Substitute ios for android if not on a Mac.
 
+=======
+# ionic-splashscreen
+cara membuat Splash screen di ionic 2
+>>>>>>> dadceee161de801e7481ac4c29e7d48a913070db
